@@ -1,4 +1,4 @@
-# Aairy — Personal AI Agent with Memory, RAG \& Automation
+# Aairy - Personal AI Agent with Memory, RAG \& Automation
 
 A production-deployed personal AI agent built on OpenClaw with multi-layer persistent memory, semantic search, and automated knowledge extraction.
 
