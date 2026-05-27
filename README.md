@@ -132,9 +132,6 @@ The memory architecture was validated by the Hyperagents research paper (arXiv:2
 
 GitHub: shreeja5060
 
-Role: AI Engineer Intern at Aion Research Corp
-
-Focus: Agentic systems, simulation engines, research AI
 
 
 
